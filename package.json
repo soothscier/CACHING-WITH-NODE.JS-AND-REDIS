@@ -1,0 +1,19 @@
+{
+  "name": "redis-cashing-with-node",
+  "version": "1.0.0",
+  "description": "node-redis-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Hamza Qureshi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  }
+}
